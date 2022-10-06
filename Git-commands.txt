@@ -1,0 +1,14 @@
+mkdir SEMP-Git
+cd SEMP-Git/
+gh auth login
+GitHub.com
+y
+HTTPS
+y
+Paste an authentication token
+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
+
+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
+
+gh repo create SEMP-Git --public
+git add .
